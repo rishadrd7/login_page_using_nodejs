@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('/assets/mountain-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.center-div{
+    padding-top: 10%;
+}
+.btn.btn-success{
+    padding: .4em 2em ;
+    margin-top: 15px;
+}
+
+form{
+    padding: 0.3rem;
+   
+}
+
+#login.title>span{
+    font-size: .8em;
+    
+}
+.c1{
+    backdrop-filter: blur(.1rem);
+}
